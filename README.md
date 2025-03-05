@@ -16,7 +16,7 @@ Install rhythm framework with pip
 
 - [@Dan-The-Man-350](https://github.com/Dan-The-Man-350)
 
-- [@EKV](https://github.com/EKVgd)
+- [@Ungeil](https://github.com/Ungeil)
 
 - [@Sanki1001](https://github.com/sanki1001)
 
